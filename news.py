@@ -1,4 +1,6 @@
 ###해당 주제 뉴스기사 10개 crawling
+#참고사이트: https://hsj00.github.io/first-news-scraper/
+
 ##우선 검색
 #필요한 모듈
 # $ pip install bs4
